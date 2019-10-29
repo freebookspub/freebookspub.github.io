@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/freebookspub/freebookspub.github.io.git/static/css/main.b1c1997a.chunk.css",
+    "main.js": "/freebookspub/freebookspub.github.io.git/static/js/main.09881808.chunk.js",
+    "main.js.map": "/freebookspub/freebookspub.github.io.git/static/js/main.09881808.chunk.js.map",
+    "runtime-main.js": "/freebookspub/freebookspub.github.io.git/static/js/runtime-main.40ee2827.js",
+    "runtime-main.js.map": "/freebookspub/freebookspub.github.io.git/static/js/runtime-main.40ee2827.js.map",
+    "static/css/2.65d0fb34.chunk.css": "/freebookspub/freebookspub.github.io.git/static/css/2.65d0fb34.chunk.css",
+    "static/js/2.1117ed74.chunk.js": "/freebookspub/freebookspub.github.io.git/static/js/2.1117ed74.chunk.js",
+    "static/js/2.1117ed74.chunk.js.map": "/freebookspub/freebookspub.github.io.git/static/js/2.1117ed74.chunk.js.map",
+    "index.html": "/freebookspub/freebookspub.github.io.git/index.html",
+    "precache-manifest.658ea24c1c66eb34e7722553de13aed9.js": "/freebookspub/freebookspub.github.io.git/precache-manifest.658ea24c1c66eb34e7722553de13aed9.js",
+    "service-worker.js": "/freebookspub/freebookspub.github.io.git/service-worker.js",
+    "static/css/2.65d0fb34.chunk.css.map": "/freebookspub/freebookspub.github.io.git/static/css/2.65d0fb34.chunk.css.map",
+    "static/css/main.b1c1997a.chunk.css.map": "/freebookspub/freebookspub.github.io.git/static/css/main.b1c1997a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ee2827.js",
+    "static/css/2.65d0fb34.chunk.css",
+    "static/js/2.1117ed74.chunk.js",
+    "static/css/main.b1c1997a.chunk.css",
+    "static/js/main.09881808.chunk.js"
+  ]
+}
